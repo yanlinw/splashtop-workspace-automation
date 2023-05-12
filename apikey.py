@@ -1,2 +1,2 @@
-apikey = 'your openai api key here'
+apikey = 'your secure workspace api key here'
 
